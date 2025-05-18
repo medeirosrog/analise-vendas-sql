@@ -32,4 +32,4 @@ Projeto simples de análise de dados usando SQLite. Simula uma base de clientes,
 
 ## ✍️ Autor
 
-Rogério – Estudante de QA e Análise de Dados
+Rogério Medeiros – Estudante de Data Analysis
